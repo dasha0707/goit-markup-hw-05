@@ -38,9 +38,7 @@
   border: 1px solid #8e8f99;
   border-radius: 4px;
 }
-.footer-social {
-  margin-left: 120px;
-}
+
 
 .footer-social-text {
   font-weight: 500;
@@ -79,4 +77,9 @@
 
 .footer-social-icon {
   fill: #f4f4fd;
+}
+
+.footer-container {
+    display: flex;
+    align-items: baseline;
 }
